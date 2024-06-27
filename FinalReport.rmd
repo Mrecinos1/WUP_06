@@ -46,6 +46,13 @@ When looking at the Mydata file, we can see that this is a categorical on catego
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question. Bottom line is to explain the features of the graph that are relevant to conforming or departing to what is expected by your null hypothesis !-->
 
+```{r}
+barchartGC(~race + cappun,data=mydata)
+barchartGC(~race + cappun,data=mydata, type="percent")
+
+```
+
+By looking at the graph we can see the difference in how the white race is more in favor of the cappun the both the black race as well as the other race. another thing that we can see is how the black race is more in opposition to cappun when both the white and other race.
 
 
 ## Now with The Most data (fewer variables gives more data points)
