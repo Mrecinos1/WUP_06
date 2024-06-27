@@ -67,8 +67,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
   These tables show the exact numbers of both favor and opposition for each race.
-in which shows that the white race is far more in favor of cappun when black and other race, with a favor number of 65% and only a opposition number of 35% in the other hand the black race shows the opposite with only 42% in favor and a 57% in opposition. while the 'other' race fall more in the middle with a 55% favor and a 44% opposition,
-
+in which shows that the white race is far more in favor of cappun when black and other race, with a favor number of 65% and only a opposition number of 35% in the other hand the black race shows the opposite with only 42% in favor and a 57% in opposition. while the 'other' race fall more in the middle with a 55% favor and a 44% opposition.
 
 
 ## Inferential Results
