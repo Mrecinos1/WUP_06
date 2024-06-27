@@ -89,3 +89,5 @@ thank to the fisherXY Test we are able to see that all race are different from e
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+overall the results in both branches seemed to be similar however there was a difference in numbers between mt master branch and my number 2 branch. then running the fisherXY test on my master branch there seem to be more people in all race, making it seem like they all held different opinions, but then running the fisherXY test on my number 2 branch there was a significantly less amount of people, making it seem like the only differences in opinions was between the black and white race. 
